@@ -1,12 +1,13 @@
 ######################################
 ## Site settings                    ##
 ######################################
-title:       Junior Theme
-email:       jonathon.bel.melbourne@gmail.com
-author:      Jonathon Belotti
-description: "A striking black-white Jekyll theme."
+title:       Garrett Monteiro
+email:       me@gmontei.ro
+author:      Garrett Monteiro
+description: "Computer Science Student and Themed Entertainment Developer"
 baseurl:     ""
-url:         "https://juniortheme.live/"
+url:         "https://gmontei.ro/"
+logo:        /images/jekyll-grid-portfolio.png
 date_format: "%b %-d, %Y"
 
 # Google services
@@ -33,14 +34,14 @@ enable_anchorjs: false
 ######################################
 ## Optional site sections           ##
 ######################################
-show_talks_section:     true
-show_workshops_section: true
+show_talks_section:     false
+show_workshops_section: false
 
 ######################################
 ## Disqus post comments             ##
 ## (leave blank to disable Disqus)  ##
 ######################################
-disqus_shortname: 'juniortheme-live'
+disqus_shortname:
 
 ##########################################################################
 ## Facebook Comments plugin                                             ##
@@ -53,17 +54,17 @@ facebook_comments_number: 10
 ###################################
 ## Social icons                  ##
 ###################################
-github_username: thundergolfer
+github_username: gmonteir
 bitbucket_username:
 stackoverflow_id:
-twitter_username: jonobelotti_io
+twitter_username: the_montesaurus
 skype_username:
 steam_nickname:
 google_plus_id:
-linkedin_username: jonathonbelotti
+linkedin_username: garrett-monteiro
 angellist_username:
-medium_id: thundergolfer
-youtube_channel_id: UCSP7fMKwmaXaZhViAV2Vgvg
+medium_id:
+youtube_channel_id:
 bitcoin_url:
 paypal_url:
 flattr_button:
@@ -75,8 +76,8 @@ show_sharing_icons: True
 # Change to 'true' to enable individual icons
 share_facebook: True
 share_twitter: True
-share_googleplus: True
-share_linkedin: false
+share_googleplus: false
+share_linkedin: True
 share_digg: false
 share_tumblr: false
 share_reddit: True
@@ -126,9 +127,10 @@ permalink:    pretty
 paginate:     4
 sass:
   compressed: true
-gems:
+plugins:
   - jekyll-paginate
   - jekyll-sitemap
+  - jekyll-seo-tag
 # https://github.com/jekyll/jekyll/issues/2938
 exclude: [vendor]
 
