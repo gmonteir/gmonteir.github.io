@@ -4,10 +4,9 @@
 title:       Garrett Monteiro
 email:       me@gmontei.ro
 author:      Garrett Monteiro
-description: "Computer Science Student and Themed Entertainment Developer"
+description: "Themed Entertainment Developer"
 baseurl:     ""
 url:         "https://gmontei.ro/"
-logo:        /images/jekyll-grid-portfolio.png
 date_format: "%b %-d, %Y"
 
 # Google services
@@ -130,7 +129,6 @@ sass:
 plugins:
   - jekyll-paginate
   - jekyll-sitemap
-  - jekyll-seo-tag
 # https://github.com/jekyll/jekyll/issues/2938
 exclude: [vendor]
 

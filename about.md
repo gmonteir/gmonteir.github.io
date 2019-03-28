@@ -7,11 +7,11 @@ flicker: true
 headshot: /images/headshot.jpg
 ---
 
-I am a Software Engineering student at [RMIT University](https://www.rmit.edu.au/) in Melbourne. Starting November 2016 I will be interning with [Zendesk](https://www.zendesk.com/) in a Data Engineering role.
+I am a Computer Science student at [California Polytechnic State University](https://www.calpoly.edu/) in San Luis Obispo. This is the place where I would put the company that I'm currently interning at, but I'm still working on that one.
 
-I'm currently doing a lot of work building developer communities around my University. I'll chase any opportunity to improve collaboration and outreach in the tech. industry.
+I'm currently doing a lot of work on a number of projects in and outside of class, namely for the [Cal Poly Amusement Park Engineers and Designers (CAPED)](https://www.facebook.com/SLOCAPED/). I'll chase any opportunity to get involved in the themed entertainment industry.
 
-My main areas of interest are in NLP, Agent-Oriented Programming, and Computational Dialectics.
+My main areas of interest are in Virtual Reality, Computer Graphics, and Real-time Rendering.
 
 {% if site.show_talks_section %}
 ## Talks
