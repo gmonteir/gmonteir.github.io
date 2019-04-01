@@ -1,6 +1,6 @@
 ---
 layout: post-wide
-hero-bg-color: "#000000"
+hero-bg-color: "#7491bb"
 uid: mcamusement
 title:  "McAmusement"
 worktype: "Game Modding"
@@ -16,16 +16,15 @@ progress: 100
 <p>
 	Over the course of three years, I worked with a team of about 15 theme park fans to create a 1:1 scale replica of the Disneyland Resort in Minecraft.
 
-  This included working attractions, shows, shops, and other in-park entertainment experiences.
+  This included working attractions, shows, shops, and other in-park entertainment experiences. I am currently working on converting this into a VR experience.
 </p>
 
 <div class="skills">
 <p>Skills and contributions:</p>
 <ul>
-  <li>Conceptualization, story, and design of a single-player interactive experience</li>
-  <li>Collaboration with a team in a cohesive manner under time-sensitive constraints</li>
-  <li>Mechanic development, level design, and event design with the <b>Godot Engine</b></li>
-  <li>Overworld, sound effects, and end music composed with <b>FL Studio</b></li>
+  <li>Using a variety of 2D resources to construct a 3D environment</li>
+  <li>Proper landscape scaling</li>
+  <li>Ride implementation and physics engine with <b>Java</b> and the <b>Bukkit API</b></li>
 </ul>
 </div>
 

@@ -1,6 +1,6 @@
 ---
 layout: post-wide
-hero-bg-color: "#000000"
+hero-bg-color: "#d3d3d3"
 uid: cornell-tpdc
 title:  "Lair of the Leviathan"
 worktype: "Theme Park Design"
@@ -30,9 +30,9 @@ progress: 100
 </div>
 
 <div class="showcase">
-  <img style="width:50%" src="/images/portfolio/cornell-tpdc/1.png" alt="">
-  <img style="width:50%" src="/images/portfolio/cornell-tpdc/2.png" alt="">
-  <img style="width:50%" src="/images/portfolio/cornell-tpdc/3.png" alt="">
-  <img style="width:50%" src="/images/portfolio/cornell-tpdc/4.png" alt="">
-  <img style="width:50%" src="/images/portfolio/cornell-tpdc/5.png" alt="">
+  <img style="width:50%" src="/images/portfolio/cornell-tpdc/1.jpg" alt="">
+  <img style="width:50%" src="/images/portfolio/cornell-tpdc/2.jpg" alt="">
+  <img style="width:50%" src="/images/portfolio/cornell-tpdc/3.jpg" alt="">
+  <img style="width:50%" src="/images/portfolio/cornell-tpdc/4.jpg" alt="">
+  <img style="width:50%" src="/images/portfolio/cornell-tpdc/5.jpg" alt="">
 </div>
