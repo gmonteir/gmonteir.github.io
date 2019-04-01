@@ -592,7 +592,11 @@ td {
     margin-top: 100px;
   }
 
-  .post p{
+  .post h2 {
+    margin-bottom: 1px;
+  }
+
+  .post p {
     font-size: 16px;
     line-height: 24px;
     max-width: 620px;
@@ -604,10 +608,30 @@ td {
     clear: both;
   }
 
+  .post .skills {
+    max-width: 620px;
+    margin-right: auto;
+    margin-left: auto;
+    margin-top: 50px;
+    margin-bottom: 100px;
+    display: block;
+    clear: both;
+  }
+
+  .skills p {
+    text-align: left;
+  }
+  
+  .skills ul {
+    font-size: 16px;
+    text-align: left;
+    list-style-position: inside;
+  }
+
   .post .meta{
     color: #aaa;
     font-size: 12px;
-    margin-bottom: 100px;
+    margin-bottom: 30px;
   }
 
   #showcase__password{
