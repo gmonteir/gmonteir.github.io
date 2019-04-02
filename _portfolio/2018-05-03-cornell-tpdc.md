@@ -14,18 +14,17 @@ progress: 100
 </p>
 
 <p>
-	I made a 2D puzzle-platformer game for the SLO Hacks 2019 hackathon. The game follows three lost dogs and their journey to return home.
-
-  This project was conceived, designed, and created by a multi-disciplinary team of four Cal Poly students over the course of 36 hours.
+	With a team of three students from the Cal Poly Amusement Park Engineers and Designers (CAPED), I designed a water ride themed after a dilapidated tourist attraction and an encounter with a mysterious sea creature. This ride was conceptualized over the course of one month for the 2018 Cornell Theme Park Design Competition.
 </p>
 
 <div class="skills">
 <p>Skills and contributions:</p>
 <ul>
-  <li>Conceptualization, story, and design of a single-player interactive experience</li>
+  <li>Conceptualization, story, and design of a themed water attraction</li>
   <li>Collaboration with a team in a cohesive manner under time-sensitive constraints</li>
-  <li>Mechanic development, level design, and event design with the <b>Godot Engine</b></li>
-  <li>Overworld, sound effects, and end music composed with <b>FL Studio</b></li>
+  <li>Lore writing, world building, and character design/development</li>
+  <li>Ride mechanic development according to <b>ASTM F24</b> standards</li>
+  <li>Master site planning given spacial constraints</li>
 </ul>
 </div>
 
